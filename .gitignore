@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Local configuration and system files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Both raw and cleaned CSV files are intentionally versioned.
