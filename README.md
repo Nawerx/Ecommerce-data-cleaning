@@ -24,6 +24,11 @@ The most important part of the project is not that every line is maximally optim
 
 ## Dataset
 
+The dataset used in this project was downloaded from Kaggle:
+
+**Messy E-Commerce Sales Data**  
+https://www.kaggle.com/datasets/kandeeldev/messy-e-commerce-sales-data
+
 The raw file is stored at:
 
 ```text
@@ -759,5 +764,5 @@ This project demonstrates practical experience with:
 
 The project produces a reproducible cleaned e-commerce dataset with **100 records**.
 
-The main result is not simply a cleaner CSV. The project documents the reasoning behind each decision: what I noticed, what I checked, which assumptions I validated, which values I could restore, and which values I intentionally left unknown.
+The main result is not a cleaner CSV. The project documents the reasoning behind each decision: what I noticed, what I checked, which assumptions I validated, which values I could restore, and which values I intentionally left unknown.
 
